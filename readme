@@ -1,0 +1,28 @@
+# Summary of the project ###
+
+* Models used =Random Forest,CNN,Vgg16,Navie bayes,Logistic regression,KNN 
+* Weights used    - **ImageNet**
+* Classifier used - **Logistic Regression**
+
+
+### Dependencies ###
+* TensorFlow pip install tensorflow`
+* Keras ` pip install keras`
+* NumPy `pip install numpy`
+* matplotlib  pip install matplotlib` and you also need to do this `sudo apt-get install python-dev`
+* seaborn `sudo pip install seaborn`
+* h5py `pip install h5py`
+* scikit-learn ` pip install scikit-learn`
+
+### System requirements
+* This project used Windows 10 
+
+test.py = tests the vgg16 model 
+train.py =trains the vgg16 model 
+
+feature_extracter=extracts features from the images 
+Cnn_machine_learning=Jupiter file for all machine learning algorithm (Random Forest,Navie bayes,Logistic regression,KNN )
+
+final_project=Project report 
+cnn_aug=cnn model for detecting ratinopathy 
+
