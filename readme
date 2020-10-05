@@ -26,3 +26,10 @@ Cnn_machine_learning=Jupiter file for all machine learning algorithm (Random For
 final_project=Project report 
 cnn_aug=cnn model for detecting ratinopathy 
 
+Dataset used=Fundas Dataset [https://www.kaggle.com/linchundan/fundusimage1000]
+Divide the dataset into two parts
+i)Images with DR detected 
+ii)Images where DR is not detected 
+
+Use Augmentation to increase the number of images to 4000
+Then use the models
